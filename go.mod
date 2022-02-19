@@ -12,7 +12,7 @@ require (
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/labstack/gommon v0.3.1 // indirect
-	github.com/marlonmp/argon2 v0.0.0-20220214225708-bf9f45e0f7b4 // indirect
+	github.com/marlonmp/argon2 v0.0.0-20220214225708-bf9f45e0f7b4
 	github.com/mattn/go-colorable v0.1.11 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
